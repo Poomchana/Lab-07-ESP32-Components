@@ -18,3 +18,6 @@
 1. เข้าไปในโฟลเดอร์ lab7-2_Managed_url_Component
 2. รันคำสั่ง `idf.py build` (จะดาวน์โหลด component จาก GitHub อัตโนมัติ)
 3. ทดสอบด้วย QEMU
+
+![alt text](image.png)
+![alt text](image-1.png)
